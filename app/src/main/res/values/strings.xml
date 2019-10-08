@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PA4</string>
+    <string name="button_text">Calculate!</string>
+    <string name="letter_grade">character letter grade here</string>
+    <string name="numeric_avg">numeric average here</string>
+    <string name="final_percent">final % weight here</string>
+    <string name="desired_grade">Desired grade:</string>
+    <string name="min_avg_required">Min average required:</string>
+    <string name="cur_avg_required">Current average required:</string>
+    <string name="final_per_weight">Final percentage required:</string>
+</resources>
